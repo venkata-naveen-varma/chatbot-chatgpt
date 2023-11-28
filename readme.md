@@ -2,6 +2,8 @@
 
 This is a ChatGPT chatbot written in Node.js that runs in the terminal
 
+Check out the [Medium Post](https://medium.com/@naveen-varma/chatbot-with-openai-api-and-nodejs-7e1efc871604) for explanation
+
 ## Usage
 
 Get your OpenAI API key at https://platform.openai.com/account/api-keys
